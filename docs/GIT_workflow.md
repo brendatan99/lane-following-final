@@ -1,3 +1,4 @@
+![GitHub Workflow Diagram](./GitHub_diagram.png)
 
 ## 1) 專案內文件版：`docs/GIT_WORKFLOW.md`
 
