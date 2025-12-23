@@ -4,7 +4,7 @@
 
 我的期末專題已整理並上傳至 GitHub（Public）：
 
-- 專案網址：（待建立 GitHub repo 後補上）  
+- 專案網址： https://github.com/brendatan99/lane-following-final  
 - 主要說明：請見 `README.md`  
 - 方法/流程/成果說明：請見 `REPORT.md`  
 - 操作方式（如何執行 / 如何切換 School / Home / 如何錄影）：請見 `INSTRUCTION.md`  
